@@ -355,8 +355,7 @@
                     UpdateUpdatePackages();
 
                     // load the default icon from the Resources folder
-                    Texture2D texture = (Texture2D)AssetDatabase.LoadAssetAtPath("Packages/com.unity.images-library/Example/Images/defaultIcon.png", typeof(Texture2D));
-                    defaultIcon = (Texture2D)Resources.Load("defaultIcon", typeof(Texture2D));
+                    defaultIcon = (Texture2D)AssetDatabase.LoadAssetAtPath("Packages/com.locus.nugetforunity/Editor/defaultIcon.png", typeof(Texture2D));
                 }
 
                 hasRefreshed = true;
