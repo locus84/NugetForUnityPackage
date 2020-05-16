@@ -1,0 +1,12 @@
+{
+  "name": "com.locus.nugetforunity",
+  "version": "1.0.0",
+  "displayName": "Nuget Package Manager",
+  "description": "Nuget package manager originally from https://github.com/GlitchEnzo/NuGetForUnity",
+  "unity": "2018.3",
+  "author": {
+    "name": "Locus",
+    "email": "locus84@gmail.com",
+    "url": "https://github.com/locus84/NuGetForUnity"
+  }
+}
